@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="error_ws">Problème rencontré lors de la tentative de connexion au service web.</string>
+</resources>
